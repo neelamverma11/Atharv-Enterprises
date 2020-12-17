@@ -1,9 +1,5 @@
 import React from 'react';
 import { a } from 'react-router-dom';
-// import web from '../src/images/atharv.jpg';
-// import milk from '../src/videos/Curd.mp4'
-// import soya1 from '../src/images/paneer front.jpg'
-// import soya2 from '../src/images/kaushik.jpg'
 import YouTubeIcon from '@material-ui/icons/YouTube';
 import milk from "../src/images/milk11.jpg";
 import vaccum from "../src/images/vaccum11.jpg";
